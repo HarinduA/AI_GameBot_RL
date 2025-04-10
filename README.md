@@ -16,12 +16,6 @@ An AI bot that learns to play the classic **CartPole-v1** game using **Reinforce
 
 AI_GameBot_RL/ │ ├── train_bot.py # Main script: trains the Q-learning agent on CartPole ├── requirements.txt # Python dependencies (optional but recommended) ├── README.md # Project overview, setup, usage instructions │ ├── results/ # Output folder for training plots │ └── rewards_plot.png # Saved graph of total rewards per episode │ └── venv/ # Virtual environment (not included in Git, add to .gitignore)
 
-yaml
-Copy
-Edit
-
----
-
 ## ✅ Requirements
 
 Make sure you're using **Python 3.11**.
