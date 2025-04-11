@@ -41,7 +41,7 @@ for ep in range(episodes):
 
     done = False
     while not done:
-        # Uncomment this to watch the bot play (after 300+ episodes)
+        # Uncomment this to watch the bot play  (after 300+ episodes)
         # if ep > 800: env.render()
 
         # Epsilon-greedy
